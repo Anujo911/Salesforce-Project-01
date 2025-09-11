@@ -1,0 +1,45 @@
+SmartShop CRM – Customer Loyalty & Inventory System 
+
+
+Problem Statement ->
+
+
+A retail chain is facing challenges in managing customer engagement across both walk-in stores 
+and online platforms. Currently, customer purchases are recorded in separate systems, and loyalty 
+program points are tracked manually, leading to errors and dissatisfaction. Inventory shortages 
+often result in lost sales, and managers cannot view real-time reports on sales performance, 
+inventory status, or loyalty program effectiveness. Sales representatives also lack insights into 
+high-value customers, which limits their ability to deliver personalized offers. 
+This fragmented process results in inefficient operations, poor customer satisfaction, and reduced 
+sales growth. The proposed solution is to implement a Salesforce-based CRM system—RetailHub 
+CRM—to centralize customer data, automate loyalty program tracking, and provide real-time 
+inventory and reporting capabilities. 
+
+
+
+Future Plan ->
+
+The RetailHub CRM project will be implemented in multiple phases: 
+1. Requirement Analysis & Stakeholder Mapping – Understand challenges faced by 
+managers,sales reps, and customers. 
+2. Salesforce Org Setup – Configure users, roles, profiles, and company settings. 
+3. Data Modeling – Create objects for Customers, Products, Purchases, and Loyalty 
+Transactions.4. Process Automation – Automate loyalty point calculations, inventory alerts, and 
+customer notifications. 
+5. Apex Development – Implement triggers and classes for advanced logic such as 
+personalizedrecommendations and batch processing. 
+6. Lightning Components – Build LWC dashboards for sales reps and managers. 
+7. Integration – Connect with e-commerce website for online sales and external APIs 
+fornotifications. 
+8. Deployment & Testing – Migrate from sandbox to production with test classes and QA. 
+9. Reporting & Dashboards – Provide insights into sales performance, inventory levels, and 
+loyaltyprogram effectiveness. 
+10. Final Demo & Documentation – Present results, feedback collection, and project handover. 
+
+
+Scope ->
+The scope of the RetailHub CRM includes: - Centralized customer data management across online and offline channels. - Automated loyalty program with points earning, redemption, and tier management. - Real-time inventory tracking and low-stock alerts for managers. - Personalized recommendations for customers based on purchase history. - Custom dashboards for store managers to analyze sales performance and customer 
+engagement. - Secure access control for managers and sales representatives. 
+
+Out of Scope: ->
+- Full-fledged payment processing system. - Third-party ERP integration (planned for future phases). 
